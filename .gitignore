@@ -368,3 +368,6 @@ FodyWeavers.xsd
 
 *.csproj
 /Assembly-CSharp.csproj
+/TTSH.Building.csproj
+/TTSH.Core.csproj
+/TTSH.SaveSystem.csproj
