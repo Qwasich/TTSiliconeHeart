@@ -360,14 +360,11 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-/Library
 /Logs
 /Temp
 /UserSettings
 /BUILD
+/Library
 
 *.csproj
-/Assembly-CSharp.csproj
-/TTSH.Building.csproj
-/TTSH.Core.csproj
-/TTSH.SaveSystem.csproj
+
