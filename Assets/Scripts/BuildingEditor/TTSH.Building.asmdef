@@ -1,0 +1,18 @@
+{
+    "name": "TTSH.Building",
+    "rootNamespace": "",
+    "references": [
+        "GUID:833ac8a023807da4fa0e2435b47fb2f0",
+        "GUID:7d82aed748359dd41b78631737575aea",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

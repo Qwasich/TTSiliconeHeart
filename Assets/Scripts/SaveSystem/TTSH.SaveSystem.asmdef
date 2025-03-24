@@ -1,0 +1,16 @@
+{
+    "name": "TTSH.SaveSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:833ac8a023807da4fa0e2435b47fb2f0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
